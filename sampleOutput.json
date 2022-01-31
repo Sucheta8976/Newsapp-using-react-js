@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Tom Rinaldi on the upcoming NFL playoff weekend",
+            "description": "FOX Sports reporter Tom Rinaldi provides insight into the upcoming NFL Conference championship games, the final playoff games leading up to the 2022 Super Bowl. Play the Fox Bet Super 6 'Stack the Cash' contest for a chance to win big cash prize!",
+            "url": "https://video.foxnews.com/v/6293965601001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aed53855-e00d-4ff7-ab52-a3273c78de3c/6c27abd3-ade1-465a-bc21-08912899b728/1280x720/match/image.jpg",
+            "publishedAt": "2022-01-27T14:37:16.0193213Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Paul Waldie",
+            "title": "Britain drops most COVID-19 restrictions, including face masks and vaccine passports",
+            "description": "With daily new COVID-19 infections topping 100,000, it’s a risky move that will be watched closely by governments around the world",
+            "url": "https://www.theglobeandmail.com/world/article-britain-drops-most-covid-19-restrictions-including-face-masks-and/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/Lu6gHq0FpVhDEv-ksSIOpi_PVBI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/S4LZA4QDJ5OZNPGDROMAXTFYIA.jpg",
+            "publishedAt": "2022-01-27T12:52:36Z",
+            "content": "London's Tower Bridge looms in the background as unmasked Britons cross London Bridge during morning rush hour on Jan. 27, England's first day with no mandatory COVID-19 restrictions.JUSTIN TALLIS/AF… [+6362 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Olympic figure skating will be post-NFL treat for sports fans",
+            "description": "Olympic figure skating will give NFL fans a cure for post-Super Bowl blues if they give it a chance, Martin Rogers writes.",
+            "url": "http://www.foxsports.com/stories/olympics/olympic-figure-skating-will-be-post-nfl-treat-for-sports-fans",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1408/814/1.26.22_Figure-Skating_olympics_EDIT-16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-01-26T22:13:36Z",
+            "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nSome funny things happen at the end of the NFL season. Sundays suddenly seem horribly empty and theres no longer a good excuse to put aside home projects or er… [+6744 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Michael McWhertor",
+            "title": "PlayStation Plus February 2022 free games announced for PS5, PS4",
+            "description": "PlayStation Plus subscribers will get free access to three games in February: Planet Coaster: Console Edition, Tiny Tina’s Assault on Dragon Keep, and EA Sports UFC 4 for PS4 and PS5.",
+            "url": "https://www.polygon.com/22902733/playstation-plus-february-2022-free-games-ps4-ps5",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/P5arzu1X1lFP6v4IwppsMSMGVK0=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23196562/tinytina.jpg",
+            "publishedAt": "2022-01-26T17:00:28Z",
+            "content": "PlayStation Plus subscribers will get free access to three games in February: Planet Coaster: Console Edition (for PlayStation 5), Tiny Tinas Assault on Dragon Keep: A Wonderlands One-Shot Adventure … [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
